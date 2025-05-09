@@ -2,8 +2,8 @@
 ---
 >**Note:** This is not a release but only a trailer/showcase.
 
-[![DotBot Showcase](![image](https://github.com/user-attachments/assets/b3ea058b-d56b-4db2-a7a5-5acecb47c079)
-)](https://youtu.be/iI8W8aszt50)
+[image](https://github.com/user-attachments/assets/b3ea058b-d56b-4db2-a7a5-5acecb47c079)
+
 > 🔗 Click the image above to watch the full showcase on YouTube.
 
 ##  Features
