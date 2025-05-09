@@ -33,5 +33,5 @@ Do not use DotBot in online multiplayer or competitive games. Use at your own ri
 ---
 
 **GitHub**: `@DXXTHLY`  
-**Discord**: `DXXTHLY`  
+**Discord**: `DXXTHLY.`  
 **Community**: [https://dsc.gg/143x](https://dsc.gg/143x)
