@@ -6,7 +6,7 @@
 > 🔗 Click the image above to watch the full showcase on YouTube.
 
 ##  Features
--  **Colorbot / Aim Assist** – Tracks and aims at red dots using screen detection and FOV targeting.
+-  **Colorbot / Aim Assist** – Tracks and aims at colored dots using screen detection and FOV targeting.
 -  **Triggerbot** – Automatically fires when the crosshair overlaps a target.
 -  **Smart GUI** – PyQt5 GUI lets you adjust:
   - Aimbot speed
