@@ -1,4 +1,6 @@
 #  DotBot – External Colorbot + Triggerbot (Arduino Leonardo + Python)
+---
+>**Note:** This is not a release but only a trailer/showcase.
 
 [![DotBot Showcase](https://img.youtube.com/vi/iI8W8aszt50/0.jpg)](https://youtu.be/iI8W8aszt50)
 > 🔗 Click the image above to watch the full showcase on YouTube.
