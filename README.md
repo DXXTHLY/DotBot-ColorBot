@@ -13,17 +13,17 @@
 -  **Colorbot / Aim Assist** – Tracks and aims at colored dots using screen detection and FOV targeting.
 -  **Triggerbot** – Automatically fires when the crosshair overlaps a target.
 -  **Smart GUI** – PyQt5 GUI lets you adjust:
-  - Aimbot speed
-  - Detection color
-  - Triggerbot toggle
-  - FOV radius and offset
-  - Spectator ChatBot
-  - Draw Line & Box
-  - Configure Offsets
-  - Save & Load Config
-  - Select Window (only apply to specific window)
-  - Customize Menu Color & Name
-  - About Information
+  - **Aimbot speed**
+  - **Detection color**
+  - **Triggerbot toggle**
+  - **FOV radius and offset**
+  - **Spectator ChatBot**
+  - **Draw Line & Box**
+  - **Configure Offsets**
+  - **Save & Load Config**
+  - **Select Window** (only apply to specific window)
+  - **Customize Menu Color & Name**
+  - **About Information**
 -  **Arduino Leonardo + USB Host Shield** – Used for raw HID mouse input emulation.
 -  **Stealth Mode** – Hide the interface while the bot continues running.
 -  **Spoofing Utility** – Optional VID/PID spoofing tool to mask Arduino as a real HID device.
