@@ -6,6 +6,9 @@
 
 > 🔗 Click the image above to watch the full showcase on YouTube.
 
+![image](https://github.com/user-attachments/assets/f15b8f96-1a38-476b-81b7-827f7dae043b)
+
+
 ##  Features
 -  **Colorbot / Aim Assist** – Tracks and aims at colored dots using screen detection and FOV targeting.
 -  **Triggerbot** – Automatically fires when the crosshair overlaps a target.
