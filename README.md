@@ -17,6 +17,13 @@
   - Detection color
   - Triggerbot toggle
   - FOV radius and offset
+  - Spectator ChatBot
+  - Draw Line & Box
+  - Configure Offsets
+  - Save & Load Config
+  - Select Window (only apply to specific window)
+  - Customize Menu Color & Name
+  - About Information
 -  **Arduino Leonardo + USB Host Shield** – Used for raw HID mouse input emulation.
 -  **Stealth Mode** – Hide the interface while the bot continues running.
 -  **Spoofing Utility** – Optional VID/PID spoofing tool to mask Arduino as a real HID device.
@@ -24,7 +31,7 @@
 
 ##  How It Works
 1. Run `spoofer.py` to change the Arduino's VID/PID (or unspoof).
-2. Launch `launcher.py`, select your COM port.
+2. Launch `launcher`, via `spoofer.py` type your COM port. (ex. COM3)
 3. Adjust aimbot parameters via the GUI.
 4. Aim on/near dot color targets and let DotBot assist.
 
